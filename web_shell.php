@@ -7,6 +7,4 @@
             ?>
         </pre>
     </body>
-</html>    
-        
-            
+</html>
